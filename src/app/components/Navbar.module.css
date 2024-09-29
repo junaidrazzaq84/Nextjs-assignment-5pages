@@ -1,0 +1,19 @@
+.navbar {
+  background-color: rgb(240, 240, 240);
+  padding: 10px;
+  color: black;
+  text-align: center;
+}
+
+.Link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 14px 20px;
+  margin-right: 10px;
+}
+
+.Link:hover {
+  background-color: #0dee51;
+  color: black;
+  border-radius: 5px;
+}
